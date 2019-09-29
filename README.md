@@ -16,4 +16,4 @@ Launch date plays an incredibly important role to the success of the campaign wi
 
 ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/55905864/65824269-eb868700-e21a-11e9-9950-6c78888d867c.png)
 
-Further analysis into the three months that historically perform the best, being May through July, should be considered. Looking into the goals and outcomes within those months might help pinpoint the best time for the amount relative to this campaign. 
+Further analysis into the three months that historically perform the best, being May through July, should be considered. Looking into the goals and outcomes within those months might help pinpoint the best time for the amount relative to this type of campaign. 
